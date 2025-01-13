@@ -2,6 +2,10 @@
 
 This project focuses on developing an autonomous robot capable of navigating through a maze using artificial intelligence and ultrasonic sensors. The robot was built using an Arduino Nano development board and programmed through the Arduino IDE to execute its navigation and decision-making functionalities.  
 
+## Documentation  
+For an in-depth explanation of the project's design, implementation, and results, please refer to the detailed documentation:  
+[**Licenta_Rebeca_Polocoser.pdf**](path/to/Licenta_Rebeca_Polocoser.pdf)  
+
 ## Features  
 - **Ultrasonic Sensors for Obstacle Detection**:  
   The robot uses two ultrasonic sensors to detect obstacles in front and on the left side, ensuring safe navigation through the maze.  
